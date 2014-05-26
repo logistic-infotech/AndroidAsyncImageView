@@ -2,6 +2,7 @@ AndroidAsyncImageView
 =====================
 
 Android AsyncImageView Single Class
+------------------------------------
 
 To use in the project we have to just declare in xml anywhare just like below and then just need to access object and call downloadImage function.
 
